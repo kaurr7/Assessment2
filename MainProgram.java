@@ -4,6 +4,12 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 import javax.swing.JFileChooser;
+/**
+ * write a description of class student here.
+ * 
+ * @author(Ramandeep kaur)
+ * @version(02/10/2023)
+ */
 
 class Student {
     private String lastName;
